@@ -1,0 +1,4 @@
+c:\users\nezdolya-av\documents\visual studio 2015\Projects\ProxyChanger\BusinessLogic\bin\Debug\BusinessLogic.dll
+c:\users\nezdolya-av\documents\visual studio 2015\Projects\ProxyChanger\BusinessLogic\bin\Debug\BusinessLogic.pdb
+c:\users\nezdolya-av\documents\visual studio 2015\Projects\ProxyChanger\BusinessLogic\obj\Debug\BusinessLogic.dll
+c:\users\nezdolya-av\documents\visual studio 2015\Projects\ProxyChanger\BusinessLogic\obj\Debug\BusinessLogic.pdb

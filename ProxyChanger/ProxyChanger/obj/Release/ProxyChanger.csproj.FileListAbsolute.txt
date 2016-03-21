@@ -1,0 +1,11 @@
+C:\Users\nezdolya-av\documents\visual studio 2015\Projects\ProxyChanger\ProxyChanger\bin\Release\ProxyChanger.exe.config
+C:\Users\nezdolya-av\documents\visual studio 2015\Projects\ProxyChanger\ProxyChanger\bin\Release\ProxyChanger.exe
+C:\Users\nezdolya-av\documents\visual studio 2015\Projects\ProxyChanger\ProxyChanger\bin\Release\ProxyChanger.pdb
+C:\Users\nezdolya-av\documents\visual studio 2015\Projects\ProxyChanger\ProxyChanger\bin\Release\BusinessLogic.dll
+C:\Users\nezdolya-av\documents\visual studio 2015\Projects\ProxyChanger\ProxyChanger\bin\Release\BusinessLogic.pdb
+C:\Users\nezdolya-av\documents\visual studio 2015\Projects\ProxyChanger\ProxyChanger\obj\Release\ProxyChanger.csprojResolveAssemblyReference.cache
+C:\Users\nezdolya-av\documents\visual studio 2015\Projects\ProxyChanger\ProxyChanger\obj\Release\ProxyChanger.MainForm.resources
+C:\Users\nezdolya-av\documents\visual studio 2015\Projects\ProxyChanger\ProxyChanger\obj\Release\ProxyChanger.Properties.Resources.resources
+C:\Users\nezdolya-av\documents\visual studio 2015\Projects\ProxyChanger\ProxyChanger\obj\Release\ProxyChanger.csproj.GenerateResource.Cache
+C:\Users\nezdolya-av\documents\visual studio 2015\Projects\ProxyChanger\ProxyChanger\obj\Release\ProxyChanger.exe
+C:\Users\nezdolya-av\documents\visual studio 2015\Projects\ProxyChanger\ProxyChanger\obj\Release\ProxyChanger.pdb
